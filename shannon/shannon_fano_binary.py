@@ -2,7 +2,6 @@ import os
 import pickle
 import time
 from tkinter import filedialog
-
 import networkx
 from bitarray import bitarray
 from shannon import shannon_fano_coding
